@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/les-passagers-du-vent/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Les Passagers Du Vent](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-passagers-du-vent/) |
+| **Get License** | [Obtain a Music License for Les Passagers Du Vent](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-passagers-du-vent/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> On roule dans la nuit, baby, just you and me
+> Le vent sur ta peau, c'est la douce mélodie
+> Tes yeux dans le noir, un frisson de magie
+> On brûle la ville, tonight we're wild and free
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
